@@ -1,0 +1,5 @@
+accountNumber,name,role,balance,pinHash,salt,isActive
+100001,Alice,USER,1500.00,3509d5190c29df17e07c30f33f651ef08a1910ef1f7c6bd0abae7dd4a17448a0,a1f0c93b5d6e7a2c,true
+100002,Bob,USER,500.00,49cfc1dbfe3c671c17ffd4aca20da0d28fac3cd675ef78b8ed92d9394d1ff08c,b2e1d04c6f7a8b3d,true
+100003,Charlie,USER,1200.00,3dc1b51f004b900d41f65de0ef0f97d7a09beb8d02a1bf5c9c0d0018e48a1081,c3f2e15d7a8b9c4e,true
+999999,Admin,ADMIN,0.00,77b2de1fd683b556fe1b3c7671a1c5b4ce726d727315b4f0860ab9c21f612d93,d4a3f26e8b9c0d5f,true
