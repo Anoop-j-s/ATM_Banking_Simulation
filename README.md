@@ -2,7 +2,7 @@
 
 ## Requirements
 - Java 17+ (JDK)
-- Command line (Terminal / CMD / PowerShell)
+- Command line (Terminal / CMD / PowerShell))
 
 ## Compile
 ### macOS/Linux
