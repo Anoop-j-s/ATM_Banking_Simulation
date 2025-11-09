@@ -1,6 +1,6 @@
 # ATM Banking Simulation System
 
-## Requirements
+## Requirement
 - Java 17+ (JDK)
 - Command line (Terminal / CMD / PowerShell))
 
